@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Νικόλαος Μπουτουρίδης
-    tagline: Φοιτητής Πληροφορικής
+    name: Nikolaos Boutouridis
+    tagline: Studying Informatics at Ionian University
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -30,7 +30,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Native
+        level: Professional
 
       - idiom: German
         level: Professional
