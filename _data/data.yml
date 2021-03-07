@@ -47,12 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        Still studying, looking for experince in entry level jobs.
 education:
     - degree: Computer Science
       university: Ionian University
@@ -65,17 +60,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -168,22 +153,22 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 80%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 10%
 
-      - name: Angular
+      - name: DJ Blender
         level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 50%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: C, C##
+        level: 99%
 
       - name: Sketch & Photoshop
-        level: 60%
+        level: 99%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
