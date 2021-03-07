@@ -13,8 +13,8 @@ sidebar:
 
     # Sidebar links
     email: p17bout@ionio.gr
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    phone: 698 345 6789
+    website: blog.nikosbout.com #do not add http://
     github: nikosbout
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -35,10 +35,10 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Football
+      - item: Gaming
         link:
 
-      - item: Cars
+      - item: Cars and tuning
         link:
 
       - item: Manchester United
@@ -73,25 +73,25 @@ projects:
     intro: >
       I've done numerous projects due to my studying, I've done youtube videos, small programs, a game on skratch, a platformer game with Unity as well as an online shop via wordpress.
     assignments:
-      - title: Velocity
+      - title: Video on OpenToonz
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A toturial and review on OpenToonz."
 
-      - title: DevStudio
+      - title: Binding of Isaac
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A review and explanation of Binding of Isaac."
 
-      - title: Tempo
+      - title: myeshop.gr
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "An e-shop based on Wordpress."
 
-      - title: Atom
+      - title: La Noire VR The Case Files
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "An indepth paper review of La Noire VR The Case Files."
 
-      - title: Delta
+      - title: Platformer
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A game made in Scratch"
 
 publications:
     title: Publications
